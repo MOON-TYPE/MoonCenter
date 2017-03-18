@@ -9,7 +9,7 @@ Repositorio con todos los repositorios de #MOON-TYPE
 
 Herramienta sencilla para hacer un seguimiento del codigo en Unity3D.
 
-![001](https://raw.githubusercontent.com/MOON-TYPE/MTodo/master/Res/previ.png)
+<p align="center"><img src="https://raw.githubusercontent.com/MOON-TYPE/MTodo/master/Res/previ.png"></p>
 
 ---
 
@@ -19,23 +19,27 @@ Herramienta sencilla para hacer un seguimiento del codigo en Unity3D.
 
 Scripts básicos con los que formar un prototipo rápido y probar varias mecánicas en poco tiempo.
 
-![002](https://github.com/MOON-TYPE/MDevScripts/blob/master/Res/DrawRay.gif)
+<p align="center"><img src="https://github.com/MOON-TYPE/MDevScripts/blob/master/Res/DrawRay.gif"></p>
 
 ---
 
 # [Moonlib (1.0.0)][3]
+
+<p align="center"><img src="https://github.com/MOON-TYPE/Moonlib/blob/master/res/lib.jpg?raw=true"></p>
 
 ---
 
 Libreria para Unity3d con extensiones utiles.
 
 # [MIcaros (1.0.0)][4]
+[![GitHub issues](https://img.shields.io/github/issues/MOON-TYPE/MIcaros.svg)](https://github.com/MOON-TYPE/MIcaros/issues)
+[![UnityVersion](https://img.shields.io/badge/Unity-5.5.2p4-orange.svg)](https://unity3d.com/es)
+[![Trello](https://img.shields.io/badge/Trello-OFF-red.svg)](https://github.com/MOON-TYPE/MIcaros)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/MOON-TYPE/MIcaros/master/LICENSE)
 
-![004](https://github.com/MOON-TYPE/MIcaros/blob/master/res/MIcaros.png?raw=true)
+<p align="center"><img src="https://github.com/MOON-TYPE/MIcaros/blob/master/res/MIcaros.png?raw=true"></p>
 
 ---
-
-
 
 
 [1]: https://github.com/MOON-TYPE/MTodo
