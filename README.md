@@ -34,14 +34,18 @@ Scripts básicos con los que formar un prototipo rápido y probar varias mecáni
 # [Moonlib (1.0.0)][3]
 [![GitHub issues](https://img.shields.io/github/issues/MOON-TYPE/Moonlib.svg)](https://github.com/MOON-TYPE/Moonlib/issues)
 [![UnityVersion](https://img.shields.io/badge/Unity-5.5.2p4-orange.svg)](https://unity3d.com/es)
-[![Trello](https://img.shields.io/badge/Trello-OFF-red.svg)](https://github.com/MOON-TYPE/MIcaros)
+[![Trello](https://img.shields.io/badge/Trello-OFF-red.svg)](https://github.com/MOON-TYPE/Moonlib)
 [![Slack Status](https://moonantonio.herokuapp.com/badge.svg)](https://moonantonio.herokuapp.com/)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/MOON-TYPE/Moonlib/master/LICENSE)
+---
+
+Libreria para Unity3d con extensiones utiles.
+
 <p align="center"><img src="https://github.com/MOON-TYPE/Moonlib/blob/master/res/lib.jpg?raw=true"></p>
 
 ---
 
-Libreria para Unity3d con extensiones utiles.
+
 
 # [MIcaros (1.0.0)][4]
 [![GitHub issues](https://img.shields.io/github/issues/MOON-TYPE/MIcaros.svg)](https://github.com/MOON-TYPE/MIcaros/issues)
@@ -49,13 +53,15 @@ Libreria para Unity3d con extensiones utiles.
 [![Trello](https://img.shields.io/badge/Trello-OFF-red.svg)](https://github.com/MOON-TYPE/MIcaros)
 [![Slack Status](https://moonantonio.herokuapp.com/badge.svg)](https://moonantonio.herokuapp.com/)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/MOON-TYPE/MIcaros/master/LICENSE)
+
+MIkaros es una herramienta para facilitar la construccion de elementos ScriptableObjects en el motor grafico Unity3D.
 ---
 
 <p align="center"><img src="https://github.com/MOON-TYPE/MIcaros/blob/master/res/MIcaros.png?raw=true"></p>
 
 ---
 
-Herramienta para crear documentacion rapida y simple en Unity3D.
+
 
 # [MDoc (1.0.0)][5]
 [![GitHub issues](https://img.shields.io/github/issues/MOON-TYPE/MDoc.svg)](https://github.com/MOON-TYPE/MDoc/issues)
@@ -63,6 +69,8 @@ Herramienta para crear documentacion rapida y simple en Unity3D.
 [![Trello](https://img.shields.io/badge/Trello-OFF-red.svg)](https://github.com/MOON-TYPE/MDoc)
 [![Slack Status](https://moonantonio.herokuapp.com/badge.svg)](https://moonantonio.herokuapp.com/)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/MOON-TYPE/MDoc/master/LICENSE)
+
+Herramienta para crear documentacion rapida y simple en Unity3D.
 ---
 
 <p align="center"><img src="https://github.com/MOON-TYPE/MDoc/blob/master/Res/preview/preview.png?raw=true"></p>
