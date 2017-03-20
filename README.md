@@ -53,9 +53,9 @@ Libreria para Unity3d con extensiones utiles.
 [![Trello](https://img.shields.io/badge/Trello-OFF-red.svg)](https://github.com/MOON-TYPE/MIcaros)
 [![Slack Status](https://moonantonio.herokuapp.com/badge.svg)](https://moonantonio.herokuapp.com/)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/MOON-TYPE/MIcaros/master/LICENSE)
+---
 
 MIkaros es una herramienta para facilitar la construccion de elementos ScriptableObjects en el motor grafico Unity3D.
----
 
 <p align="center"><img src="https://github.com/MOON-TYPE/MIcaros/blob/master/res/MIcaros.png?raw=true"></p>
 
@@ -69,9 +69,9 @@ MIkaros es una herramienta para facilitar la construccion de elementos Scriptabl
 [![Trello](https://img.shields.io/badge/Trello-OFF-red.svg)](https://github.com/MOON-TYPE/MDoc)
 [![Slack Status](https://moonantonio.herokuapp.com/badge.svg)](https://moonantonio.herokuapp.com/)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/MOON-TYPE/MDoc/master/LICENSE)
+---
 
 Herramienta para crear documentacion rapida y simple en Unity3D.
----
 
 <p align="center"><img src="https://github.com/MOON-TYPE/MDoc/blob/master/Res/preview/preview.png?raw=true"></p>
 
