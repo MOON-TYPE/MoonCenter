@@ -3,7 +3,7 @@ Repositorio con todos los repositorios de #MOON-TYPE
 
 ---
 
-# [MTODO (1.5.0)][1]
+# [MTODO (1.5.2)][1]
 [![GitHub issues](https://img.shields.io/github/issues/MOON-TYPE/MTodo.svg)](https://github.com/MOON-TYPE/MTodo/issues)
 [![UnityVersion](https://img.shields.io/badge/Unity-5.5.2p4-orange.svg)](https://unity3d.com/es)
 [![Build Status](https://img.shields.io/badge/Trello-Active-brightgreen.svg)](https://trello.com/b/ZPmPLDJ8)
