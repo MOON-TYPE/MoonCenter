@@ -85,6 +85,20 @@ Herramienta para crear documentacion rapida y simple en Unity3D.
 
 ---
 
+# [MHierarchy (1.0.0)][7]
+[![GitHub issues](https://img.shields.io/github/issues/MOON-TYPE/MHierarchy.svg)](https://github.com/MOON-TYPE/MHierarchy/issues)
+[![UnityVersion](https://img.shields.io/badge/Unity-5.6.1f1-blue.svg)](https://unity3d.com/es)
+[![Trello](https://img.shields.io/badge/Trello-OFF-red.svg)](https://github.com/MOON-TYPE/MHierarchy)
+[![Slack Status](https://moonantonio.herokuapp.com/badge.svg)](https://moonantonio.herokuapp.com/)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/MOON-TYPE/MHierarchy/master/LICENSE)
+---
+
+Pequeño plugin para modificar la jerarquia de Unity3D
+
+<p align="center"><img src="https://github.com/MOON-TYPE/MHierarchy/blob/master/res/Prev.png?raw=true"></p>
+
+---
+
 
 [1]: https://github.com/MOON-TYPE/MTodo
 [2]: https://github.com/MOON-TYPE/MDevScripts
@@ -92,3 +106,4 @@ Herramienta para crear documentacion rapida y simple en Unity3D.
 [4]: https://github.com/MOON-TYPE/MIcaros
 [5]: https://github.com/MOON-TYPE/MDoc
 [6]: https://github.com/MOON-TYPE/MSquareArt
+[7]: https://github.com/MOON-TYPE/MHierarchy
