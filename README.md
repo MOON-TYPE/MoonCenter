@@ -44,7 +44,7 @@ Scripts básicos con los que formar un prototipo rápido y probar varias mecáni
 
 # [Moonlib (1.0.0)][3]
 [![GitHub issues](https://img.shields.io/github/issues/MOON-TYPE/Moonlib.svg)](https://github.com/MOON-TYPE/Moonlib/issues)
-[![UnityVersion](https://img.shields.io/badge/Unity-5.5.2p4-orange.svg)](https://unity3d.com/es)
+[![UnityVersion](https://img.shields.io/badge/Unity-5.6.1p4-red.svg)](https://unity3d.com/es)
 [![Trello](https://img.shields.io/badge/Trello-OFF-red.svg)](https://github.com/MOON-TYPE/Moonlib)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/MOON-TYPE/Moonlib/master/LICENSE)
 ---
