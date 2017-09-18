@@ -16,19 +16,6 @@ Herramienta sencilla para hacer un seguimiento del codigo en Unity3D.
 
 ---
 
-# [MSquareArt (1.0.0)][6]
-[![GitHub issues](https://img.shields.io/github/issues/MOON-TYPE/MSquareArt.svg)](https://github.com/MOON-TYPE/MSquareArt/issues)
-[![UnityVersion](https://img.shields.io/badge/Unity-5.5.2p4-orange.svg)](https://unity3d.com/es)
-[![Build Status](https://img.shields.io/badge/Trello-Active-brightgreen.svg)](https://trello.com/b/Cn8O9hdO)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/MOON-TYPE/MSquareArt/master/LICENSE)
----
-
-Herramienta para hacer pixel art. Desarrollada para Unity3D.
-
-<p align="center">En progreso</p>
-
----
-
 # [MDevScripts (1.0.0)][2]
 [![GitHub issues](https://img.shields.io/github/issues/MOON-TYPE/MDevScripts.svg)](https://github.com/MOON-TYPE/MDevScripts/issues)
 [![UnityVersion](https://img.shields.io/badge/Unity-5.5.2p4-orange.svg)](https://unity3d.com/es)
