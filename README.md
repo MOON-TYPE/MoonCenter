@@ -23,7 +23,7 @@ Herramienta sencilla para hacer un seguimiento del codigo en Unity3D.
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/MOON-TYPE/MDevScripts/master/LICENSE)
 ---
 
-Scripts básicos con los que formar un prototipo rápido y probar varias mecánicas en poco tiempo.
+Scripts básicos con los que formar un prototipo rápido y probar varias mecánicas en poco tiempo .
 
 <p align="center"><img src="https://github.com/MOON-TYPE/MDevScripts/blob/master/Res/DrawRay.gif"></p>
 
@@ -36,7 +36,7 @@ Scripts básicos con los que formar un prototipo rápido y probar varias mecáni
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/MOON-TYPE/Moonlib/master/LICENSE)
 ---
 
-Libreria para Unity3d con extensiones utiles.
+Libreria para Unity3d con extensiones utiles (Actualizada)
 
 <p align="center"><img src="https://github.com/MOON-TYPE/Moonlib/blob/master/res/lib.jpg?raw=true"></p>
 
