@@ -85,22 +85,8 @@ Pequeño plugin para modificar la jerarquia de Unity3D
 
 ---
 
-# [MDevScripts (1.0.0)][2]
-[![GitHub issues](https://img.shields.io/github/issues/MOON-TYPE/MDevScripts.svg)](https://github.com/MOON-TYPE/MDevScripts/issues)
-[![UnityVersion](https://img.shields.io/badge/Unity-2017.3.1f1-blue.svg)](https://unity3d.com/es)
-[![Trello](https://img.shields.io/badge/Trello-OFF-red.svg)](https://github.com/MOON-TYPE/MIcaros)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/MOON-TYPE/MDevScripts/master/LICENSE)
----
-
-Scripts básicos con los que formar un prototipo rápido y probar varias mecánicas en poco tiempo .
-
-<p align="center"><img src="https://github.com/MOON-TYPE/MDevScripts/blob/master/Res/DrawRay.gif"></p>
-
----
-
 
 [1]: https://github.com/MOON-TYPE/MTodo
-[2]: https://github.com/MOON-TYPE/MDevScripts
 [3]: https://github.com/MOON-TYPE/Moonlib
 [4]: https://github.com/MOON-TYPE/MIcaros
 [5]: https://github.com/MOON-TYPE/MDoc
